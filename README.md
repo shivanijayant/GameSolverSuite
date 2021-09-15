@@ -101,5 +101,4 @@ MASTERMIND
 8.	If before the end of 10 turns, the user has guessed the code correctly, display ‘YOU WIN!!!’ with the time taken.
 9.	If the user does not guess the code or runs out of 10 turns it displays ‘You Lose’.
 10.	 Exit to the menu page.
-![image](https://user-images.githubusercontent.com/89692363/133489636-3afb2d7f-160a-4c50-b465-06e6d8204648.png)
 
